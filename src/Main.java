@@ -107,7 +107,7 @@ public class Main {
     }
 
     //switch 3
-    public static void mitja() {
+    public static void media() {
         int[] numeros = new int[5];
         int mediapositivos = 0, indicepositivos = 0, medianegativos = 0, indicenegativos = 0, indicezeros = 0;
 
