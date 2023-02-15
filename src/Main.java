@@ -31,7 +31,7 @@ public class Main {
                 invertNumero();
                 break;
             case 3:
-                mitja();
+                media();
                 break;
             case 4:
                 System.out.println("Introduzca el texto: ");
